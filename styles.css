@@ -101,3 +101,5 @@ input,select,textarea{display:block;width:100%;margin-top:6px;padding:12px 14px;
 .hero-points li:before{background:var(--blue-d)}
 .checklist li:before{border-color:var(--pink-d)}
 .site-footer{background:var(--navy)}
+.email-card h3{margin-top:0}.email-card .checklist.plain{box-shadow:none;padding:0 0 12px;background:none}.small{font-size:.92rem;color:var(--muted);margin:14px 0 0}
+.notfound{min-height:60vh;display:grid;place-items:center;text-align:center;padding:80px 20px}
